@@ -7,7 +7,7 @@ const loginFormElement = document.querySelector('#loginForm');
  
  
 /** 
-* Membuat variabel inputEmailElement untuk tampilan input email.
+* Membuat variabell inputEmailElement untuk tampilan input email.
 * @constant {HTMLElement}
 */
 const inputEmailElement = document.querySelector('#inputEmail');
